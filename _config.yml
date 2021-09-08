@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-theme                    : "minimal-mistakes-jekyll"
+remote_theme             : "mmistakes/minimal-mistakes"
 
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -16,7 +16,7 @@ title_separator          : "-"
 subtitle                 : ""
 name                     : &name "NUAA NLP LAB" # &name is a YAML anchor which can be *referenced later
 description              : &description "A LAB IN NANJING UNIVERSITY OF AERONAUTICS AND ASTRONAUTICS."
-url                      : https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://patrick-ni.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "NLP_LAB" # the subpath of your site, e.g. "/blog"
 repository               : "NLP_LAB"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
