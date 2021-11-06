@@ -11,11 +11,11 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "NLP LAB"
+title                    : "Patrick-Ni"
 title_separator          : "-"
 subtitle                 : ""
-name                     : &name "NUAA NLP LAB" # &name is a YAML anchor which can be *referenced later
-description              : &description "A LAB IN NANJING UNIVERSITY OF AERONAUTICS AND ASTRONAUTICS."
+name                     : &name "Patrick's personal blog" # &name is a YAML anchor which can be *referenced later
+description              : &description "Record the bits and pieces of learning"
 url                      : https://Patrick-Ni.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
@@ -99,7 +99,7 @@ author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/michael-rose.jpg"
   bio              : "Just another *boring*, *tattooed*, *time traveling*, *designer*."
-  location         : "Buffalo, NY"
+  location         : "Nanjing,Jiangsu"
   links:
     - label: "Made Mistakes"
       icon: "fas fa-fw fa-link"
