@@ -101,33 +101,29 @@ author:
   bio              : "Just another *boring*, *tattooed*, *time traveling*, *designer*."
   location         : "Nanjing,Jiangsu"
   links:
-    - label: "Made Mistakes"
-      icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    - label: "Bilibili"
+      icon: "fab fa-fw fa-bilibili"
       url: "https://twitter.com/mmistakes"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      url: "https://github.com/Patrick-Ni/"
+    - label: "Weibo"
+      icon: "fab fa-fw fa-weibo"
       url: "https://instagram.com/mmistakes"
 
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    - label: "Bilibili"
+      icon: "fab fa-fw fa-bilibili"
       url: "https://twitter.com/mmistakes"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      url: "https://github.com/Patrick-Ni/"
+    - label: "Weibo"
+      icon: "fab fa-fw fa-weibo"
       url: "https://instagram.com/mmistakes"
-
 
 # Reading Files
 include:
