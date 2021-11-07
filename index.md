@@ -3,29 +3,29 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_color: "#B0C4DE"
+
 excerpt: >
-  This is a test website.<br />
+  <p style="font-family:楷体">此后如竟没有炬火，我便是唯一的光</p><br />
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "test"
-    title: "test"
-    excerpt: "T E S T------------T E S T"
+  - image_path: /assets/images/patrick/book.png
+    alt: "paper"
+    title: "paper"
+    excerpt: "Paper reading notes"
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "test"
-    title: "another test"
-    excerpt: "test test test test test"
+  - image_path: /assets/images/patrick/code.png
+    alt: "code"
+    title: "code"
+    excerpt: "Project code"
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "tttttt"
-    title: "tttttt"
-    excerpt: "oh my god"
+  - image_path: /assets/images/patrick/cloud.png
+    alt: "article"
+    title: "article"
+    excerpt: "Original and reprinted good articles"
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"   
@@ -37,14 +37,9 @@ feature_row:
 
 
 
-## NEWS
+## Modify record
 
-- 2021/9/1
-- 2021/9/2
-- 2021/9/3
-- 2021/9/4
-- 2021/9/5
-- 2021/9/6
-- 2021/9/7
-- 2021/9/8
+- 2021/11/7 
+
+  Personal blog is initially set up.I upload the papers and notes I read during the summer vacation and the project code for this month here.
 

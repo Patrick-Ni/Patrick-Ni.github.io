@@ -3417,14 +3417,14 @@ body {
     .page {
         float: right;
         width: calc(100% - 200px);
-        padding-right: 200px
+        padding-right: 0px
     }
 }
 
 @media (min-width: 80em) {
     .page {
         width: calc(100% - 300px);
-        padding-right: 300px
+        padding-right: 0px
     }
 }
 

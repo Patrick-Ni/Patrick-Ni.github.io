@@ -22,8 +22,8 @@ foo:
 main:
   - title: "Home"
     url: /
-  - title: "News"
-    url: /News/
+  - title: "Papers"
+    url: /Papers/
   - title: "Research"
     url: /Research/
   - title: "Members"
@@ -36,25 +36,14 @@ main:
 
 # documentation links
 docs:
-  - title: recent
-  - title: "2021"
+  - title: "NLP"
     children:
-      - title: "December-12"
+      - title: "Story Generating"
+        url: /Story-generating/
+      - title: "Prompt-based"
         url: /News/
-      - title: "September-9"
-        url: /News/
-      - title: "March-3"
-        url: /News/
-      - title: "Monday-1"
-        url: /News/
-  - title: "2020"
+  - title: "PyTorch"
     children:
-      - title: "May-5"
-        url: /News/
-      - title: "February-2"
-        url: /News/
-      - title: "Monday-1"
-        url: /News/
 
 # sidebar navigation list sample
 sidebar-sample:
