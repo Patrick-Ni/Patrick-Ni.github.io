@@ -97,13 +97,10 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/images/michael-rose.jpg"
-  bio              : "Just another *boring*, *tattooed*, *time traveling*, *designer*."
+  avatar           : "/assets/images/nxf.jpg"
+  bio              : "Arguing with a madman is not as quiet as a quiet mind."
   location         : "Nanjing,Jiangsu"
   links:
-    - label: "Bilibili"
-      icon: "fab fa-fw fa-bilibili"
-      url: "https://twitter.com/mmistakes"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Patrick-Ni/"
@@ -115,9 +112,6 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Bilibili"
-      icon: "fab fa-fw fa-bilibili"
-      url: "https://twitter.com/mmistakes"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Patrick-Ni/"
@@ -172,7 +166,7 @@ incremental: false
 kramdown:
   input: GFM
   hard_wrap: false
-  auto_ids: true
+  auto_ids: false
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6

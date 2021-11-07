@@ -24,14 +24,14 @@ main:
     url: /
   - title: "Papers"
     url: /Papers/
-  - title: "Research"
-    url: /Research/
+  - title: "Codes"
+    url: /Codes/
+  - title: "Articles"
+    url: /Articles/
+  - title: "About-me"
+    url: /author/
   - title: "Members"
     url: /Members/
-  - title: "Publications"
-    url: /Publications/
-  - title: "Contact"
-    url: /Contact/
 
 
 # documentation links
