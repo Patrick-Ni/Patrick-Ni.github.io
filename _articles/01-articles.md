@@ -1,6 +1,6 @@
 ---
-title: "Papers"
-permalink: /Papers/
+title: ""
+permalink: /articles/
 excerpt: "layout"
 last_modified_at: 2021-011-07T08:48:05-04:00
 redirect_from:
@@ -8,5 +8,5 @@ redirect_from:
 toc: true
 ---
 
-一片仍待开拓的荒原
+- **笔记** [links](/笔记)
 

@@ -3,10 +3,10 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#B0C4DE"
-
+  overlay_color: "#0092ca"
 excerpt: >
-  <p style="font-family:楷体">此后如竟没有炬火，我便是唯一的光</p><br />
+    此后如竟没有炬火，我便是唯一的光<br />
+    If there is no torch after that, I will be the only light<br />	
 feature_row:
   - image_path: /assets/images/patrick/book.png
     alt: "paper"

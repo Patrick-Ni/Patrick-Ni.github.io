@@ -30,8 +30,6 @@ main:
     url: /Articles/
   - title: "About-me"
     url: /author/
-  - title: "Members"
-    url: /Members/
 
 
 # documentation links
@@ -41,10 +39,24 @@ docs:
       - title: "Story Generating"
         url: /Story-generating/
       - title: "Prompt-based"
-        url: /News/
+        url: /Prompt-based/
+
+# codes links
+codes:
   - title: "PyTorch"
     children:
+      - title: "Yelp comments classifier"
+        url: /Yelp
+      - title: "Surname classifier MLP"
+        url: /Surname
+      - title: "Surname classifier CNN"
+        url: /Surname-CNN
 
+articles:
+  - title: "notes"
+    children:
+  - title: "Reprint"
+        
 # sidebar navigation list sample
 sidebar-sample:
   - title: "Parent Page A"

@@ -4,7 +4,6 @@ permalink: /Story-generating/
 excerpt: "layout"
 redirect_from:
   - /theme-setup/
-toc: true
 ---
 
 
@@ -15,7 +14,7 @@ toc: true
 
   - [notes](/c2po)
 
-  - [pdf]()
+  - [original]()
 
   - [translation]()
 
