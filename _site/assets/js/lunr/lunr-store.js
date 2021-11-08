@@ -23,12 +23,6 @@ var store = [{
         "url": "/Papers/",
         "teaser": null
       },{
-        "title": "Members",
-        "excerpt":"   Piji Li   Xuanfan Ni   Xi Wang   Xiang Zhou   ","categories": [],
-        "tags": [],
-        "url": "/Members/",
-        "teaser": null
-      },{
         "title": "Story-generating",
         "excerpt":"        Automated Storytelling via Causal, Commonsense Plot Ordering       通过因果关系、常识情节顺序自动讲故事                       notes                        original                        translation                      ","categories": [],
         "tags": [],
