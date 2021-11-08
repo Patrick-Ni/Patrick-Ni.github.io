@@ -1,7 +1,7 @@
 ---
-title: "author"
+title: ""
 sitemap: false
 permalink: /author.html
 ---
 
-fuckyou son of bitch
+做一个热爱生活的人
