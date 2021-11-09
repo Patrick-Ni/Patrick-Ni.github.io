@@ -1,6 +1,6 @@
 ---
-title: "Prompt-Based"
-permalink: /Prompt-Based/
+title: "Prompt-based"
+permalink: /Prompt-based/
 excerpt: "layout"
 redirect_from:
   - /theme-setup/

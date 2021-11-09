@@ -5,8 +5,7 @@ hidden: true
 header:
   overlay_color: "#0092ca"
 excerpt: >
-    此后如竟没有炬火，我便是唯一的光<br />
-    If there is no torch after that, I will be the only light<br />	
+    此后如竟没有炬火，我便是唯一的光<br />	
 feature_row:
   - image_path: /assets/images/patrick/book.png
     alt: "paper"
